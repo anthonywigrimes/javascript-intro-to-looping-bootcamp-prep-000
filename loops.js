@@ -9,4 +9,6 @@ function forLoop(arr) {
   return arr;
 };
 
-function 
+function whileLoop() {
+
+}
