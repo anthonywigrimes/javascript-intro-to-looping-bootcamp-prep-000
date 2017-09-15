@@ -9,6 +9,6 @@ function forLoop(arr) {
   return arr;
 };
 
-function whileLoop() {
-
+function whileLoop(num) {
+    
 }
