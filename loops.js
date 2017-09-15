@@ -22,5 +22,7 @@ function maybeTrue() {
 }
 
 function doWhileLoop(arr) {
-    
+    do {
+        
+    }
 }
